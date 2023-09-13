@@ -1,2 +1,2 @@
-# Sidebar
+# react-sidebar
 Created with CodeSandbox
